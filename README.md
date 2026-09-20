@@ -2,12 +2,12 @@
 
 Projeto de análise de dados sobre o catálogo de jogos da plataforma Steam, explorando a relação entre preço, popularidade, aprovação do público, engajamento em tempo real (CCU) e o desempenho de desenvolvedores e publishers.
 
-[!IMPORTANT]
+> [!IMPORTANT]
 > Este projeto me ajudou muito a desenvolver minha habilidade em transformar dados em métricas e apresentar isso de uma forma mais clara para o usuário
 >
 > Dentro do projeto estruturei algumas perguntas de mercado que vão guiando tanto eu quanto o usuário as todas as etapas de análise
 
-[!TIP]
+> [!TIP]
 > Acesse o arquivo data_analysis.ipynb para ver o código principal com os gráficos
 
 ---
